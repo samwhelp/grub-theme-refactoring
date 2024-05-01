@@ -11,11 +11,11 @@
 
 ## Grub Theme / Refactoring
 
-| Grub Theme |
-| ----------- |
-| [grub-theme-bigsur-refactoring](https://github.com/samwhelp/grub-theme-refactoring/tree/main/refactoring/grub-theme/themes/grub-theme-bigsur-refactoring) |
-| [grub-theme-monterey-refactoring](https://github.com/samwhelp/grub-theme-refactoring/tree/main/refactoring/grub-theme/themes/grub-theme-monterey-refactoring) |
-
+| Grub Theme  | GitHub |
+| ----------- | ------ |
+| [grub-theme-bigsur-refactoring](https://samwhelp.github.io/grub-theme-bigsur-refactoring/) | [GitHub](https://github.com/samwhelp/grub-theme-bigsur-refactoring) |
+| [grub-theme-monterey-refactoring](https://samwhelp.github.io/grub-theme-monterey-refactoring/) | [GitHub](https://github.com/samwhelp/grub-theme-monterey-refactoring) |
+| [grub-theme-obs-refactoring](https://samwhelp.github.io/grub-theme-obs-refactoring/) | [GitHub](https://github.com/samwhelp/grub-theme-obs-refactoring) |
 
 
 
