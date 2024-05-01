@@ -2,6 +2,10 @@
 
 # Grub Theme / grub-theme-monterey-refactoring
 
+* [grub-theme-monterey-refactoring](https://github.com/samwhelp/grub-theme-refactoring/tree/main/refactoring/grub-theme/themes/grub-theme-monterey-refactoring)
+
+
+
 
 ## Source
 
@@ -11,11 +15,15 @@
 | [GitHub](https://github.com/sandesh236/monterey-grub-theme) |
 
 
+
+
 ## Docs
 
 | Grub Docs |
 | ---- |
 | [Theme file format](https://www.gnu.org/software/grub/manual/grub/html_node/Theme-file-format.html) |
+
+
 
 
 ## Styled Boxes

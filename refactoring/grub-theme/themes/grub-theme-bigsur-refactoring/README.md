@@ -1,6 +1,10 @@
 
 
-# Grub Theme / grub-theme-bigsur
+# Grub Theme / grub-theme-bigsur-refactoring
+
+* [grub-theme-bigsur-refactoring](https://github.com/samwhelp/grub-theme-refactoring/tree/main/refactoring/grub-theme/themes/grub-theme-bigsur-refactoring)
+
+
 
 
 ## Source
@@ -11,11 +15,15 @@
 | [GitHub](https://github.com/Teraskull/bigsur-grub2-theme) |
 
 
+
+
 ## Docs
 
 | Grub Docs |
 | ---- |
 | [Theme file format](https://www.gnu.org/software/grub/manual/grub/html_node/Theme-file-format.html) |
+
+
 
 
 ## Styled Boxes
