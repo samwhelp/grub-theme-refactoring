@@ -2,6 +2,10 @@
 
 # Grub Theme / Refactoring
 
+| Link | GitHub |
+| ---- | ------ |
+| [Grub Theme / Refactoring](https://samwhelp.github.io/grub-theme-refactoring/) | [GitHub](https://github.com/samwhelp/grub-theme-refactoring) |
+
 
 ## Branch
 
