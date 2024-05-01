@@ -1,6 +1,6 @@
 
 
-# grub-theme-refactoring
+# Grub Theme / Refactoring
 
 
 ## Branch
