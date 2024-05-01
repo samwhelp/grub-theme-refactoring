@@ -1,6 +1,6 @@
 
 
-# Grub Theme / Source / grub-theme-grub
+# Grub Theme / Source / grub-theme-bigsur
 
 
 ## Link
