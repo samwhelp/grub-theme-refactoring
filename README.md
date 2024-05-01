@@ -1,15 +1,15 @@
 
 
-# Grub Theme / Refactoring
+# Home
 
 | Link | GitHub |
 | ---- | ------ |
 | [Grub Theme / Refactoring](https://samwhelp.github.io/grub-theme-refactoring/) | [GitHub](https://github.com/samwhelp/grub-theme-refactoring) |
 
 
-## Refactoring
+## Grub Theme / Refactoring
 
-| Refactoring |
+| Grub Theme |
 | ----------- |
 | [grub-theme-bigsur-refactoring](https://github.com/samwhelp/grub-theme-refactoring/tree/main/refactoring/grub-theme/themes/grub-theme-bigsur-refactoring) |
 
